@@ -7,13 +7,18 @@
 <div class="col-md-4 text-center  animated bounceInRight">
 <img src="assets/juan2.jpg" class="imagen " alt="">
 <hr>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  Primer Ep grabado por el cantautor.</br>
+  Mostrando un estilo propio tanto en la composicion de las letras
+  como en la interpretación de estas.
+
+
+
   </div>
   <div class="col-md-4 text-center animated bounceInDown">
   <img src="assets/juan1.jpg " class="imagen" alt="">
-
 <hr>
-<pre >
+<pre class=" container  thumbnail" >
 Juan Solís Levicoi, egresado
 de Pedagogía en Educación
 Musical de la Universidad de
@@ -40,7 +45,12 @@ mezcla la canción de autor
     <div class="col-md-4 text-center animated bounceInLeft ">
     <img src="assets/juan5.jpg " class="imagen" alt="">
   <hr>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Juan ha participado en diversos eventos <br>
+  -<br>
+  -<br>
+  -<br>
+  -<br>
+
       </div>
 
 </div>
